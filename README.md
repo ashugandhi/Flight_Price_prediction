@@ -7,3 +7,6 @@ Link to the dataset: [https://www.kaggle.com/nikhilmittal/flight-fare-prediction
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
+![](/images/Screenshot%20(226).png)
+
+
