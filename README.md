@@ -12,7 +12,7 @@
 
 
 ## Demo
-Link: [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
+Link to the dataset: [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
