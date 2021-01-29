@@ -6,6 +6,8 @@ Link to the dataset: [https://www.kaggle.com/nikhilmittal/flight-fare-prediction
 
 ![](/images/Screenshot%20(226).png)
 
+![](/images/Screenshot%20(225).png)
+
 ![](/images/Screenshot%20(227).png)
 
 ![](/images/Screenshot%20(228).png)
