@@ -1,5 +1,7 @@
 # Flight Fare Prediction: 
 
+**Couldn't upload the pkl file due to the size constraints.**
+
 ## Demo
 Link to the dataset: [https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
 
